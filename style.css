@@ -1,0 +1,45 @@
+@media screen and (min-width: 480px) {
+	#center-block {
+	font-family: Arial;
+	width: 80%;
+	margin: auto;
+	background: rgba(245,245,220,0.8);
+	border: solid 5px rgba(0,0,0,0.8);
+	border-top: 0px;
+	overflow: hidden;
+}
+}
+body {
+	padding: 0px;
+	background:url('bg.png') fixed;
+}
+#header > img {
+	width: 100%;
+}
+#content {
+	margin: 2%;
+}
+.cont-block > p {
+	text-align: justify;
+	color: red;
+}
+p.bluep {
+	color: blue;
+}
+.inner-cont {
+	background: blue;
+}
+#cnt {
+	color: orange;
+	font-weight: bold;
+}
+#buttons {
+	background: red;
+}
+#zastrahui {
+	background: green;
+}
+.headers {
+	color: pink;
+	background-color: rgba(0,0,0,0.4);
+}
